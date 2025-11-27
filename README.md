@@ -5,11 +5,11 @@
 
 
 
-- 🔭 I’m currently working on **Arbor Note**
+- 🔭 I’m currently working on **Pharma Destributor App (WEB,IOS,Android)**
 
-- 🌱 I’m currently learning **Flutter, IOS,**
+- 🌱 I’m currently learning APP PERFORMANCE **Flutter, IOS, Android**
 
-- 💬 Ask me about **Flutter Android, Django**
+- 💬 Ask me about **Flutter Android,IOS, WEB**
 
 - 📫 How to reach me **hqazi62@gmail.com**
 
